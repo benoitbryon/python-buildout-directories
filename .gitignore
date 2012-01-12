@@ -1,0 +1,11 @@
+# Binaries
+/bin/*
+
+# Local configuration
+/etc/*
+
+# External libraries
+/lib/*
+
+# Data files
+/var/*

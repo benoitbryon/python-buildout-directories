@@ -2,7 +2,9 @@
 Buildout directories
 ####################
 
-This project illustrates and article about buildout directories.
+This project illustrates an article about buildout directories:
+
+http://www.marmelune.net/en/python/buildout/tidy-buildout-directories/
 
 To run the demo:
 

@@ -14,8 +14,11 @@ To run the demo:
   git clone https://github.com/benoitbryon/python-buildout-directories
   cd python-buildout-directories/
 
-  # Bootstrap zc.buildout, i.e. install it.
+  # In this example, we need to prepare some directories.
   mkdir -p lib/buildout
+  mkdir -p lib/buildout/downloads
+
+  # Bootstrap zc.buildout, i.e. install it.
   python bootstrap.py --distribute
 
   # Run zc.buildout.
